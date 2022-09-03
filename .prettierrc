@@ -1,32 +1,30 @@
 {
-	"useTabs": false,
-	"singleQuote": true,
-	"trailingComma": "es5",
-	"printWidth": 100,
-	"pluginSearchDirs": [
-		"."
-	],
-	"overrides": [
-		{
-			"files": "*.svelte",
-			"options": {
-				"parser": "svelte"
-			}
-		}
-	],
-	"arrowParens": "always",
-	"bracketSpacing": true,
-	"endOfLine": "lf",
-	"htmlWhitespaceSensitivity": "css",
-	"insertPragma": false,
-	"singleAttributePerLine": false,
-	"bracketSameLine": false,
-	"jsxBracketSameLine": false,
-	"jsxSingleQuote": false,
-	"proseWrap": "preserve",
-	"quoteProps": "as-needed",
-	"requirePragma": false,
-	"semi": true,
-	"tabWidth": 2,
-	"vueIndentScriptAndStyle": false
+  "useTabs": false,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 100,
+  "pluginSearchDirs": ["."],
+  "overrides": [
+    {
+      "files": "*.svelte",
+      "options": {
+        "parser": "svelte"
+      }
+    }
+  ],
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "tabWidth": 2,
+  "vueIndentScriptAndStyle": false
 }
